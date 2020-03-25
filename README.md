@@ -1,2 +1,2 @@
 # jiang-common
-common依赖
+公共依赖及类管理
